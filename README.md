@@ -1,1 +1,1 @@
-# vishal2
+This is Insert query for php and mysql
